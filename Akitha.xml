@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utF-8"?>
+<EmployeeDetails>
+	<EmpInfo>EmpId=203' Dept='fresher'
+		<FirstName>Dyama</FirstName>
+		<MiddleName>Akitha</MiddleName>
+		<LastName>Devi</LastName>
+			<Address>
+				<StreetName>karunasree layout</StreetName>
+				<City>Bangaluru</City>
+			</Address>
+		<DOB>18-06-2003</DOB>
+		<Qualification>B.Tech</Qualification>
+		<MobileNumber>1234567892</MobileNumber>
+		<EmailId>akitha@gmail.com</EmailId>
+	</EmpInfo>
+	<EmpInfo>EmpId='206' Dept='fresher'
+		<FirstName>Perecharla</FirstName>
+		<MiddleName>Divya</MiddleName>
+		<LastName>sai</LastName>
+			<Address>
+				<StreetName>Whitefield</StreetName>
+				<City>Bangaluru</City>
+			</Address>
+		<DOB>11-09-2003</DOB>
+		<Qualification>B.Tech</Qualification>
+		<MobileNumber>1234567892</MobileNumber>
+		<EmailId>divyaa@gmail.com</EmailId>
+	</EmpInfo>
+	<EmpInfo>EmpId='303' Dept='Fresher'
+		<FirstName>Mallu</FirstName>
+		<MiddleName>Shashi</MiddleName>
+		<LastName>Priya</LastName>
+			<Address>
+				<StreetName>TirumalaPG</StreetName>
+				<City>Bangaluru</City>
+			</Address>
+		<DOB>12-08-2003</DOB>
+		<Qualification>B.Tech</Qualification>
+		<MobileNumber>1234567891</MobileNumber>
+		<EmailId>shashi@gmail.com</EmailId>
+	</EmpInfo>
+</EmployeeDetails>
