@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utF-8"?>
+<EmployeeDetails>
+	<EmpInfo>Employeecode='1111'
+		<EmployeeName>
+			<FirstName>Seema</FirstName>
+			<LastName>Dalvi</LastName>
+		</EmployeeName>
+		<DOJ>09/08/97</DOJ>
+		<Experience>12</Experience>
+		<Department>
+			<Unit>3d</Unit>
+			<Location>Mumbai</Location>
+		</Department>
+		<Designation>1</Designation>
+		<Designation>2</Designation>
+		<Designation>3</Designation>
+		<Designation>4</Designation>
+			<SpecialDesignation>*</SpecialDesignation>
+		<Designation>5</Designation>
+		<Salary>21000</Salary>
+		<Grade>a</Grade>
+		<Grade>b</Grade>
+			<SpecialGrade>*</SpecialGrade>
+		<Grade>c</Grade>
+		<Grade>d</Grade>
+	</EmpInfo>
+	<EmpInfo>Employeecode='2222'
+		<EmployeeName>
+			<FirstName>Bharati</FirstName>
+			<LastName>Mantri</LastName>
+		</EmployeeName>
+		<DOJ>12/01/99</DOJ>
+		<Experience>5</Experience>
+		<Department>
+			<Unit>4a</Unit>
+			<Location>Pune</Location>
+		</Department>
+		<Designation>1</Designation>
+		<Designation>2</Designation>
+			<SpecialDesignation>*</SpecialDesignation>
+		<Designation>3</Designation>
+		<Designation>4</Designation>
+		<Designation>5</Designation>
+		<Salary>12000</Salary>
+		<Grade>a</Grade>
+			<SpecialGrade>*</SpecialGrade>
+		<Grade>b</Grade>
+		<Grade>c</Grade>
+		<Grade>d</Grade>
+	</EmpInfo>
+</EmployeeDetails>
+
+
+		
+		
+
+			
+
+				
